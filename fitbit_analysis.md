@@ -223,7 +223,7 @@ dplyr::n_distinct(sleep_day$Id)
 ## [1] 24
 ```
 
-###### Interestingly, there are only 24 distinct participants in the sleep data set, versus 33 in the daily activity data set.  
+##### Interestingly, there are only 24 distinct participants in the sleep data set, versus 33 in the daily activity data set.  
 
 ```
 mean(sleep_day$TotalMinutesAsleep)
