@@ -9,7 +9,7 @@ Here is the prompt I was given to work with for this case study:
 > Sršen (CEO, main stakeholder) asks you to analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. She then wants you to select one Bellabeat product to apply these insights to in your presentation.  
 
 *Question*: How are people using other smart devices? (In this case, Fitbit devices)    
-How can these trends inform the marketing strategy for one Bellabeat product?  
+How can these trends inform the marketing strategy for Bellabeat products?  
 
 ### Installing tidyverse package:  
 
